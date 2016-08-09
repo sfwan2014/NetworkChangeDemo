@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>生产环境</string>
+		<key>type</key>
+		<string>1</string>
+		<key>kHost</key>
+		<string>http://www.dbc61.com/</string>
+		<key>KUrl</key>
+		<string>http://www.dbc61.com/app/</string>
+		<key>kWebURL</key>
+		<string>http://www.dbc61.com/store/html/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>开发环境</string>
+		<key>type</key>
+		<string>2</string>
+		<key>kHost</key>
+		<string>http://10.200.12.8:8099/</string>
+		<key>KUrl</key>
+		<string>http://10.200.12.8:8099/app/</string>
+		<key>kWebURL</key>
+		<string>http://10.200.12.8:8099/store/html/</string>
+	</dict>
+</array>
+</plist>

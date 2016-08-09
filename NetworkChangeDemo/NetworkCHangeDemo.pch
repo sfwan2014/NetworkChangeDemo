@@ -1,0 +1,19 @@
+//
+//  NetworkCHangeDemo.pch
+//  NetworkChangeDemo
+//
+//  Created by DBC on 16/8/8.
+//  Copyright © 2016年 DBC. All rights reserved.
+//
+
+#ifndef NetworkCHangeDemo_pch
+#define NetworkCHangeDemo_pch
+#import <Foundation/Foundation.h>
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+extern NSString *kHost;
+extern NSString *KUrl;
+extern NSString *kWebURL;
+
+#endif /* NetworkCHangeDemo_pch */
